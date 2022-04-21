@@ -350,4 +350,132 @@
   "presenter_id": "8",
   "comment": "",
   "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261ca48cc22150016e2e1d1"
+  },
+  "user_id": "",
+  "presenter_id": "8",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261ca48cc22150016e2e1d2"
+  },
+  "user_id": "",
+  "presenter_id": "8",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261ca4bcc22150016e2e1d3"
+  },
+  "user_id": "",
+  "presenter_id": "8",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261ca50cc22150016e2e1d4"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "8",
+  "comment": "The figures are hard to see/understand. I would highly suggest you to use a bigger font for the figures",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261ca58cc22150016e2e1d5"
+  },
+  "user_id": "",
+  "presenter_id": "8",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261cb20cc22150016e2e1d6"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "9",
+  "comment": "Need to better modulate articulation.",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261cb25cc22150016e2e1d7"
+  },
+  "user_id": "",
+  "presenter_id": "9",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261cb29cc22150016e2e1d8"
+  },
+  "user_id": "",
+  "presenter_id": "9",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261cb29cc22150016e2e1d9"
+  },
+  "user_id": "",
+  "presenter_id": "9",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261cb2acc22150016e2e1da"
+  },
+  "user_id": "",
+  "presenter_id": "9",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261cbaecc22150016e2e1db"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "10",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261cbb8cc22150016e2e1dc"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "10",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261cc0dcc22150016e2e1dd"
+  },
+  "user_id": "",
+  "presenter_id": "10",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261cc12cc22150016e2e1de"
+  },
+  "user_id": "",
+  "presenter_id": "10",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261cc16cc22150016e2e1df"
+  },
+  "user_id": "",
+  "presenter_id": "10",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261cc17cc22150016e2e1e0"
+  },
+  "user_id": "",
+  "presenter_id": "10",
+  "comment": "",
+  "criteria_1": 8
 }]
