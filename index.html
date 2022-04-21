@@ -26,6 +26,8 @@
                 x: groupsPerson.map(d => `Poster#${(+d[0])} <br> ${poster[d[0]].name}`),
                 y: groupsPerson.map(d => d[1]),
                 type: 'bar',
+                text: groupsPerson.map((d,i) => i>4?'':Math.round(d[1]*10)/10),
+                textposition: 'auto',
                 marker:{
                     color: groupsPerson.map(d => highest[d[0]]?'rgba(222,45,38,0.8)':'#4682b49e')
                 },
