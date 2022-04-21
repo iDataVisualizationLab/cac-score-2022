@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2375"
+  },
+  "id": "1",
+  "image": "https://drive.google.com/uc?export=view&id=1BWrXez2vGwhOab_AFxcRz2a3P7lx-LD2",
+  "name": "Mert Side",
+  "orderid": "1",
+  "posterPDF": "https://drive.google.com/file/d/1ZjFsoZyyR2ssXJoN3hpGeFcGHiPqOQVM/view?usp=sharing",
+  "title": "Porting xBGAS to Arm Morello",
+  "url": "https://drive.google.com/file/d/1mOfgOTb8AhlJvYnBEsJhqmTb-nq3o46l/preview",
+  "video": "https://drive.google.com/file/d/1mOfgOTb8AhlJvYnBEsJhqmTb-nq3o46l/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2376"
+  },
+  "id": "2",
+  "image": "https://drive.google.com/uc?export=view&id=1W43_CXRhYnqw4OsbghR5PqzNOFSvKZK0",
+  "name": "Michael Beebe",
+  "orderid": "2",
+  "posterPDF": "https://drive.google.com/file/d/1kxVZRGz2xmiX9-mUT07qb7jhk-mP6txm/view?usp=sharing",
+  "title": "Adapting STREAM to Modern HPC Systems",
+  "url": "https://drive.google.com/file/d/1jtSSMoMHJU3AHoKCti_mnPLCU2pIsQ79/preview",
+  "video": "https://drive.google.com/file/d/1jtSSMoMHJU3AHoKCti_mnPLCU2pIsQ79/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2377"
+  },
+  "id": "3",
+  "image": "https://drive.google.com/uc?export=view&id=16V9egbAk3gIqOFiFOZb13RgA0v98PGCj",
+  "name": "Jie Li",
+  "orderid": "3",
+  "posterPDF": "https://drive.google.com/file/d/1fFlV2RM763FsBza7nobKoO2Tdty0TkdV/view?usp=sharing",
+  "title": "HPC Application Recognition Through Image-encoded Monitoring Data",
+  "url": "https://drive.google.com/file/d/1GQ9-aJsOziSHPf5eqKAjHWwQTdN8f6kp/preview",
+  "video": "https://drive.google.com/file/d/1GQ9-aJsOziSHPf5eqKAjHWwQTdN8f6kp/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2378"
+  },
+  "id": "4",
+  "image": "https://drive.google.com/uc?export=view&id=1z90MxdQv9AXdalUTU_cnbVFJj9l8vQOe",
+  "name": "Cristiano Eleutherio Caon",
+  "orderid": "4",
+  "posterPDF": "https://drive.google.com/file/d/1wDz0Li9Sa-0H9AO54SZ4x2dcVRZVCjqd/view?usp=sharing",
+  "title": "Efficiently Managing Monitoring Data of Large-scale HPC Systems",
+  "url": "https://drive.google.com/file/d/1fXS2bXsJ_dOZkZcaABUOCR51hGDWCzn7/preview",
+  "video": "https://drive.google.com/file/d/1fXS2bXsJ_dOZkZcaABUOCR51hGDWCzn7/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2379"
+  },
+  "id": "5",
+  "image": "https://drive.google.com/uc?export=view&id=1xkdlRgC8m_zwgTkf3YbFK0dTSDIqjbuU",
+  "name": "Ivan Kawaminami",
+  "orderid": "5",
+  "posterPDF": "https://drive.google.com/file/d/1Fk4KcIcQlXdboso3_G8ES1NqqdqWNvTa/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1IFdtcw71TDUH6zyZOHQCVwqpHWVHbMnA/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "An Anomaly-Based Behavior Detection System for Attack Type Classification",
+  "url": "https://drive.google.com/file/d/1-_q6apjnaQAD6GGXPGUbPhB2qSapmIjE/preview",
+  "video": "https://drive.google.com/file/d/1-_q6apjnaQAD6GGXPGUbPhB2qSapmIjE/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b237a"
+  },
+  "id": "6",
+  "image": "https://drive.google.com/uc?export=view&id=1FNp9_zjDxDokBMNQ_jMpivKGSzXgrnjo",
+  "name": "Ghazanfar Ali",
+  "orderid": "6",
+  "posterPDF": "https://drive.google.com/file/d/1BIRcg-55Io0jDTvzTTYLI1i_rn646gHj/view?usp=sharing",
+  "title": "Intra-Node Power Steering in a Power-Budgeted Heterogeneous Computing Cluster",
+  "url": "https://drive.google.com/file/d/1SzNkD7R8NPm3ED-qDvpx7wC0nPO1YV3n/preview",
+  "video": "https://drive.google.com/file/d/1SzNkD7R8NPm3ED-qDvpx7wC0nPO1YV3n/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b237b"
+  },
+  "id": "7",
+  "image": "https://drive.google.com/uc?export=view&id=1ep5mQft8cB3IhXFzgUQmDFwTmzGobMGg",
+  "name": "Brody Williams",
+  "orderid": "7",
+  "posterPDF": "https://drive.google.com/file/d/1IZ0K4jzzjkGgG3PixAGHm5OgdXaOfkai/view?usp=sharing",
+  "title": "Characterizing Software Overheads in Internode PGAS Communication",
+  "url": "https://drive.google.com/file/d/18mF7eQuTRArd_ZNnXZqK3eqpA5xpSeJU/preview",
+  "video": "https://drive.google.com/file/d/18mF7eQuTRArd_ZNnXZqK3eqpA5xpSeJU/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b237c"
+  },
+  "id": "8",
+  "image": "https://drive.google.com/uc?export=view&id=1jvq0Udzkl32zEgP4mCHcOpGHScmplpkl",
+  "name": "Weiyang Zhang",
+  "orderid": "8",
+  "posterPDF": "https://drive.google.com/file/d/1RgK8b8HBRmMckfGMRT6yvNLp0tKzXMUl/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/196XcXCKBnTwEVZRsFq0pJHXPsP2wga5E/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "P-BAU: Anomaly Detection Through Process Behavior Analysis",
+  "url": "https://drive.google.com/file/d/1-68nXlrg6Nsivl0pPT5eYtJDriZHwC2z/preview",
+  "video": "https://drive.google.com/file/d/1-68nXlrg6Nsivl0pPT5eYtJDriZHwC2z/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b237d"
+  },
+  "id": "9",
+  "image": "https://drive.google.com/uc?export=view&id=1_MmyPE2OYYvvdcPPwnPiV53kT1VHxc0w",
+  "name": "Clarisa Grijalva Lugo",
+  "orderid": "9",
+  "posterPDF": "https://drive.google.com/file/d/1uuf3kKcwVovfMAR9qgeTBEMlBOtcMA0H/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1oqK9oDwtvqSzmlGKsWjlklUE8FWk6yq6/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "Autonomic Security for Industrial Control Systems",
+  "url": "https://drive.google.com/file/d/12302BIqopxAw5Pa2CAtdMyLKjNN6a6Fp/preview",
+  "video": "https://drive.google.com/file/d/12302BIqopxAw5Pa2CAtdMyLKjNN6a6Fp/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b237e"
+  },
+  "id": "10",
+  "image": "https://drive.google.com/uc?export=view&id=1lLo77evw7xa01XACNSjLJEwgxIjCLW21",
+  "name": "Ibrahim Almazyad",
+  "orderid": "10",
+  "posterPDF": "https://drive.google.com/file/d/1buFpAjWxzY3bUxonARfKxrS-coPGObby/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1rIFNnYsbLy-0rCnw102_mRw3Kr6dot5i/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "Federated Cybersecurity Testbed as a Service (FCTaaS)",
+  "url": "https://drive.google.com/file/d/1AnbEcRCohgC20zBpyB2AGdsx877dnBoh/preview",
+  "video": "https://drive.google.com/file/d/1AnbEcRCohgC20zBpyB2AGdsx877dnBoh/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b237f"
+  },
+  "id": "11",
+  "image": "https://drive.google.com/uc?export=view&id=1eRLSsye6ceklsXs6rAqwXiLVO9MSTyzq",
+  "name": "Mohammad Wali Ur Rahman",
+  "orderid": "11",
+  "posterPDF": "https://drive.google.com/file/d/1EWVWU-PreVpkLo5O4n4lMds9bqLXM5MB/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1f14VicuZe9OZrZuhHoUImAP3xgwZ0oOU/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "AI-RMS: An Artificial Intelligence Based Reputation Management System",
+  "url": "https://drive.google.com/file/d/1PPy0RtdDKxkm68FPtCm9EU5HhKPd4F8e/preview",
+  "video": "https://drive.google.com/file/d/1PPy0RtdDKxkm68FPtCm9EU5HhKPd4F8e/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2380"
+  },
+  "id": "12",
+  "image": "https://drive.google.com/uc?export=view&id=1iteVhkIOf2JC-FTGjaf3d9Mhv2YFS7XD",
+  "name": "Chongke Wu",
+  "orderid": "12",
+  "posterPDF": "https://drive.google.com/file/d/13QTy8_3M_U4jT6LaBP3hegB-tMwaIGiO/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1DqsnUx3YVql_6jqidBVtrVqg8V9blxbw/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "Intelligent Video Surveillance Systems: Design, Analysis, and Evaluation",
+  "url": "https://drive.google.com/file/d/1EpPSl7KgnPM8lWb6YplVs4dPfr6cgjBZ/preview",
+  "video": "https://drive.google.com/file/d/1EpPSl7KgnPM8lWb6YplVs4dPfr6cgjBZ/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2381"
+  },
+  "id": "13",
+  "image": "https://drive.google.com/uc?export=view&id=1wb9wGt2VGIj0Owntsh5mI6YHkhT4wGxk",
+  "name": "Arminda Estrada",
+  "orderid": "13",
+  "posterPDF": "https://drive.google.com/file/d/13Ua1EPmV43TUDxO9HW8U8ERWdjmRmZLA/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1ajbosyLcluj9yN0gUUlucccFs-QdT36C/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "NFT-based Digital Right Management Chain Architecture (NFT-DRMCA)",
+  "url": "https://drive.google.com/file/d/1tbm7ZdTnFHoqeIinqcq5OwnqcJSaEBsC/preview",
+  "video": "https://drive.google.com/file/d/1tbm7ZdTnFHoqeIinqcq5OwnqcJSaEBsC/preview"
+},{
+  "_id": {
+    "$oid": "6261a923ed1bf7e67c1b2382"
+  },
+  "id": "14",
+  "image": "https://drive.google.com/uc?export=view&id=1Zs5_bv5_Khehiddup2U6jOw9j-ISWf6j",
+  "name": "Murad Mehrab Abrar",
+  "orderid": "14",
+  "posterPDF": "https://drive.google.com/file/d/1vHDCRxEhudZ6qed1FdGoE9tL0RRGVft6/view?usp=sharing",
+  "powerpoint": "https://docs.google.com/presentation/d/1fHrYyRmEbjpjbEmq3dop1Rgfm2T0Wi4B/edit?usp=sharing&ouid=111002925867515668361&rtpof=true&sd=true",
+  "title": "Anomaly Based GPS Intrusion Detection System for Unmanned Autonomous Vehicles",
+  "url": "https://drive.google.com/file/d/1hAaguN0X9d7DEP-IwMn99z11o5-_C_fe/preview",
+  "video": "https://drive.google.com/file/d/1hAaguN0X9d7DEP-IwMn99z11o5-_C_fe/preview"
+}]

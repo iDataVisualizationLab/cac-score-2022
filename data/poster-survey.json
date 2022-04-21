@@ -102,4 +102,252 @@
   "presenter_id": "2",
   "comment": "",
   "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c47dcc22150016e2e1b2"
+  },
+  "user_id": "",
+  "presenter_id": "3",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c484cc22150016e2e1b3"
+  },
+  "user_id": "",
+  "presenter_id": "3",
+  "comment": "",
+  "criteria_1": 9
+},{
+  "_id": {
+    "$oid": "6261c487cc22150016e2e1b4"
+  },
+  "user_id": "",
+  "presenter_id": "3",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c489cc22150016e2e1b5"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "3",
+  "comment": "",
+  "criteria_1": 9
+},{
+  "_id": {
+    "$oid": "6261c491cc22150016e2e1b6"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "3",
+  "comment": "",
+  "criteria_1": 9
+},{
+  "_id": {
+    "$oid": "6261c4a4cc22150016e2e1b7"
+  },
+  "user_id": "",
+  "presenter_id": "3",
+  "comment": "Great figures.  I would reduce the amount of text a bit and enlarge the figures to make the poster for legible",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c58acc22150016e2e1b8"
+  },
+  "user_id": "",
+  "presenter_id": "4",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c58bcc22150016e2e1b9"
+  },
+  "user_id": "",
+  "presenter_id": "4",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c591cc22150016e2e1ba"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "4",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c595cc22150016e2e1bb"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "4",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c596cc22150016e2e1bc"
+  },
+  "user_id": "",
+  "presenter_id": "4",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c596cc22150016e2e1bd"
+  },
+  "user_id": "",
+  "presenter_id": "4",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c6d2cc22150016e2e1be"
+  },
+  "user_id": "",
+  "presenter_id": "5",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c6d8cc22150016e2e1bf"
+  },
+  "user_id": "",
+  "presenter_id": "5",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c6dbcc22150016e2e1c0"
+  },
+  "user_id": "",
+  "presenter_id": "5",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c6decc22150016e2e1c1"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "5",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c6e3cc22150016e2e1c2"
+  },
+  "user_id": "",
+  "presenter_id": "5",
+  "comment": "i would suggest adding color to figures I & II",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c6eacc22150016e2e1c3"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "5",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c809cc22150016e2e1c4"
+  },
+  "user_id": "",
+  "presenter_id": "6",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c80bcc22150016e2e1c5"
+  },
+  "user_id": "",
+  "presenter_id": "6",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c810cc22150016e2e1c6"
+  },
+  "user_id": "",
+  "presenter_id": "6",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c811cc22150016e2e1c7"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "6",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c815cc22150016e2e1c8"
+  },
+  "user_id": "",
+  "presenter_id": "6",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c818cc22150016e2e1c9"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "6",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c868cc22150016e2e1ca"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "7",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c91fcc22150016e2e1cb"
+  },
+  "user_id": "",
+  "presenter_id": "7",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c926cc22150016e2e1cc"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "7",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c929cc22150016e2e1cd"
+  },
+  "user_id": "",
+  "presenter_id": "7",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c92dcc22150016e2e1ce"
+  },
+  "user_id": "",
+  "presenter_id": "7",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c93bcc22150016e2e1cf"
+  },
+  "user_id": "",
+  "presenter_id": "7",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c9cfcc22150016e2e1d0"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "8",
+  "comment": "",
+  "criteria_1": 6
 }]
