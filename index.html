@@ -19,6 +19,7 @@
         d3.json('./data/poster-survey.json').then(data => {
             const highest = {}
             const groupsPerson = d3.groups(data, d => d.presenter_id).map(d => [d[0], d3.mean(d[1], e => e.criteria_1)]);
+            groupsPerson.sort((a,b)=>-a[1]+b[1])
             const maxSubmit = d3.max(groupsPerson, d => d[1]);
             groupsPerson.filter(d=>d[1]===maxSubmit).forEach(d=>highest[d[0]]=true);
             const plotdata = [{
@@ -38,8 +39,9 @@
                     r: 50,
                     b: 100,
                     t: 100
-                }
-            };
+                },
+                xaxis: {tickvals:groupsPerson.map(d => `Poster#${(+d[0])} <br> ${poster[d[0]].name}`),ticktext:groupsPerson.map((d,i) => (i>4?'':`Poster#${(+d[0])} <br> ${poster[d[0]].name}`))}
+                };
             Plotly.newPlot('myDiv', plotdata, layout);
         })
     })
