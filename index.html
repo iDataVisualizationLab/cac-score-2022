@@ -22,7 +22,7 @@
             const maxSubmit = d3.max(groupsPerson, d => d[1]);
             groupsPerson.filter(d=>d[1]===maxSubmit).forEach(d=>highest[d[0]]=true);
             const plotdata = [{
-                x: groupsPerson.map(d => `Poster#${(+d[0])+1} <br> ${poster[d[0]].name}`),
+                x: groupsPerson.map(d => `Poster#${(+d[0])} <br> ${poster[d[0]].name}`),
                 y: groupsPerson.map(d => d[1]),
                 type: 'bar',
                 marker:{
