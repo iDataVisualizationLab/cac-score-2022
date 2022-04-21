@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6261c1a3cc22150016e2e1a5"
+  },
+  "user_id": "",
+  "presenter_id": "1",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c1a5cc22150016e2e1a6"
+  },
+  "user_id": "",
+  "presenter_id": "1",
+  "comment": "",
+  "criteria_1": 9
+},{
+  "_id": {
+    "$oid": "6261c1c2cc22150016e2e1a7"
+  },
+  "user_id": "John Leidel",
+  "presenter_id": "1",
+  "comment": "suggestions for future posters; utilize more figures and fewer text elements",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c1c6cc22150016e2e1a8"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "1",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c224cc22150016e2e1a9"
+  },
+  "user_id": "Susan Mengel",
+  "presenter_id": "1",
+  "comment": "Nice job",
+  "criteria_1": 9
+},{
+  "_id": {
+    "$oid": "6261c225cc22150016e2e1aa"
+  },
+  "user_id": "",
+  "presenter_id": "1",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c239cc22150016e2e1ab"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "1",
+  "comment": "Cihan Tunc: Suggestion for the future: It would be better if you don't use black backgrounded images. ",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c2a7cc22150016e2e1ac"
+  },
+  "user_id": "Jon Hass",
+  "presenter_id": "2",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c334cc22150016e2e1ad"
+  },
+  "user_id": "",
+  "presenter_id": "2",
+  "comment": "",
+  "criteria_1": 8
+},{
+  "_id": {
+    "$oid": "6261c334cc22150016e2e1ae"
+  },
+  "user_id": "",
+  "presenter_id": "2",
+  "comment": "",
+  "criteria_1": 6
+},{
+  "_id": {
+    "$oid": "6261c336cc22150016e2e1af"
+  },
+  "user_id": "Susan Mengel",
+  "presenter_id": "2",
+  "comment": "",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c33ccc22150016e2e1b0"
+  },
+  "user_id": "John Leidel",
+  "presenter_id": "2",
+  "comment": "Figures look good.  Well organized poster",
+  "criteria_1": 7
+},{
+  "_id": {
+    "$oid": "6261c380cc22150016e2e1b1"
+  },
+  "user_id": "Cihan Tunc",
+  "presenter_id": "2",
+  "comment": "",
+  "criteria_1": 6
+}]
